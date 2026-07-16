@@ -15,7 +15,7 @@ Through statistical clustering, we mapped the market into three highly distinct 
 
 ## 📈 Visualizations
 ### 1. Market Segmentation Scatter Plot
-![Market Segments](cluster_scatter_plot.png)
+![Market Segments](Cluster_scatter_plot.png)
 
 ### 2. Cost Distribution Across Restaurants
-![Cost Distribution](Screenshot 2026-07-16 at 1.54.20 PM.png)
+![Cost Distribution](cost_distribution.png)
